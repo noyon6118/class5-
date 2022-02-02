@@ -1,0 +1,32 @@
+#p1{
+     text-align: center;
+     font-size: 30px;
+     font-weight: bold;
+     margin-bottom: 10px;
+}
+
+#p2{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 0%;
+}
+
+#search{
+margin-left: 450px;
+height: 41px;
+width: 368px;
+border-radius: 30px;
+border: 1px solid rgb(77, 61, 61);
+padding-left: 10px;
+}
+
+
+
+#submit{
+    height: 41px;
+    width: 70px;
+    background-color: rgb(224, 216, 205);
+    margin-left: 10px;
+    border-radius: 50px;
+    border: 1px solid  rgb(224, 216, 205);
+}

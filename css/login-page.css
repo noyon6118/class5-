@@ -1,0 +1,196 @@
+body {
+  background-color: rgba(121, 119, 138, 0.856);
+  background-image: url(../photo/p.png) ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+
+}
+
+#img1{
+    height: 40px;
+    width: 40px;
+    margin-left: 190px;
+    margin-top: 25px;
+
+}
+
+#div1 {
+  background-color: rgb(253, 253, 253);
+  width: 438px;
+  float: left;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 20px;
+  padding-bottom: 25px;
+  margin-left: 470px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#p1 {
+  margin-left: 73px;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+#email {
+  margin-bottom: 4px;
+  margin-left: 95px;
+  padding-left: 5px;
+  width: 230px;
+  height: 42px;
+  border-radius: 15px;
+  border: 1px solid rgb(110, 102, 102);
+}
+
+#password {
+    margin-bottom: 4px;
+    margin-left: 95px;
+    padding-left: 5px;
+    width: 230px;
+    height: 42px;
+    border-radius: 15px;
+    border: 1px solid rgb(110, 102, 102);
+}
+
+#a1{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 95px;
+
+}
+
+#login{
+    width: 230px;
+    height: 33px;
+    margin-left: 95px;
+    margin-top: 15px;
+    border-radius: 50px;
+    border: 1px solid red;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+
+
+}
+
+#p2{
+    margin-left: 200px;
+}
+
+#button1{
+  width: 230px;
+  height: 33px;
+  margin-left: 95px;
+  margin-top: 0px;
+  border-radius: 50px;
+  border: 1px solid rgb(63, 99, 219);d;
+  color: white;
+  background-color: rgb(63, 99, 219);
+  font-weight: bold;
+ 
+}
+
+
+.fa-facebook{
+  
+  margin-right: 10px;
+  
+
+}
+
+#facebook-link{
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#button2{
+  width: 230px;
+  height: 33px;
+  margin-left: 95px;
+  margin-top: 0px;
+  border-radius: 50px;
+  border: 1px solid rgb(7, 9, 19);d;
+  color: white;
+  background-color: rgb(255, 255, 255);
+  font-weight: bold;
+
+ 
+}
+
+.fa-google{
+  color: black;
+  margin-right: 15px;
+}
+
+#google-link{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+
+ /* by continue section  */
+
+.agree{
+  font-size: 12px;
+  
+  margin-bottom: 4px;
+  text-align: center;
+}
+
+.service{
+  font-size: 12px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.our{
+  font-size: 12px;
+  text-align: center;
+}
+
+.hr1{
+   width: 115px;
+}
+
+.on{
+  font-size: 12px;
+  text-align: center;
+}
+
+.you{
+  font-size: 12px;
+  text-align: center;
+}
+
+#terms{
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+  font-size: 16px;
+}
+
+#terms:hover{
+  opacity: 0.3;
+  color: blue;
+}
+
+
+#policy{
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+  font-size: 16px;
+}
+
+
+#sing{
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+  font-size: 16px;
+}
